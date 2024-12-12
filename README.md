@@ -3,8 +3,16 @@ I'm Álvaro, just a passionate **Software Engineer**, but I have a great story t
 
 ***
 
+#### 🏢 Tymit
+> *Since November 2024*
+
+Job experience summary
+| Position | Technologies | Management method |
+| - | - | - |
+| Backend Engineer | Java (11, 17 and 21), Quarkus, Groovy, Grails, AWS | Agile (SCRUM) |
+
 #### 🏢 GFT Technologies SE
-> *Since February 2023*
+> *Since February 2023 to October 2024*
 
 I'm currently working at [**GFT Technologies SE**](https://www.gft.com/) as a **Backend Engineer**, and I'm so happy to be rounded by a very warm and friendly **international environment**. I'm assigned to a private banking project, developing a trade finance platform on microservices and built in **Java** and **Spring**, some of my responsibilities here are
 - Be part of the **analysis, design and development** phases of the new incoming functionalities of the platform
@@ -27,7 +35,7 @@ Job experience summary
 | Backend Engineer | Java (8, 11 and 17), Spring, IBM MQ, Kafka, GCP, GitHub, Terraform | Agile (SCRUM) |
 
 #### 🏢 IThinkUPC
-> *From September 2020 to August 2022*
+> *From September 2020 to July 2022*
 
 I worked in [**IThinkUPC**](https://www.ithinkupc.com/) for 2 years, and I'm very proud about having started my journey here. I started as an intern at my 20s and some time later I was promoted to developer.
 
@@ -62,3 +70,4 @@ In the last period of my bachelor's I had the opportunity to study abroad, I wen
 
 #### 📫 How to reach me:
 - 👨‍💼 [LinkedIn](https://linkedin.com/in/alvaromaoc) as Álvaro Mañoso Oca
+- 🌐 [Portfolio](https://alvaromaoc.dev)
