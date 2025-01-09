@@ -6,7 +6,6 @@ I'm Álvaro, just a passionate **Software Engineer**, but I have a great story t
 #### 🏢 Tymit
 > *Since November 2024*
 
-Job experience summary
 | Position | Technologies | Management method |
 | - | - | - |
 | Backend Engineer | Java (11, 17 and 21), Quarkus, Groovy, Grails, AWS | Agile (SCRUM) |
@@ -14,7 +13,7 @@ Job experience summary
 #### 🏢 GFT Technologies SE
 > *Since February 2023 to October 2024*
 
-I'm currently working at [**GFT Technologies SE**](https://www.gft.com/) as a **Backend Engineer**, and I'm so happy to be rounded by a very warm and friendly **international environment**. I'm assigned to a private banking project, developing a trade finance platform on microservices and built in **Java** and **Spring**, some of my responsibilities here are
+I worked at [**GFT Technologies SE**](https://www.gft.com/) as a **Backend Engineer**, and I'm so happy to be rounded by a very warm and friendly **international environment**. I'm assigned to a private banking project, developing a trade finance platform on microservices and built in **Java** and **Spring**, some of my responsibilities here are
 - Be part of the **analysis, design and development** phases of the new incoming functionalities of the platform
 - Integrate **IBM MQ / Kafka** event streaming platforms
 - Onboard new services into **Google Cloud Platform (GCP)** 
@@ -37,7 +36,7 @@ Job experience summary
 #### 🏢 IThinkUPC
 > *From September 2020 to July 2022*
 
-I worked in [**IThinkUPC**](https://www.ithinkupc.com/) for 2 years, and I'm very proud about having started my journey here. I started as an intern at my 20s and some time later I was promoted to developer.
+I worked at [**IThinkUPC**](https://www.ithinkupc.com/) for 2 years, and I'm very proud about having started my journey here. I started as an intern at my 20s and some time later I was promoted to developer.
 
 Here, I worked on several very different projects, I went through public administration, financial, estate management and cultural foundations projects. Some of my duties here were
 - Do the **analysis, design and development** for new features which implied
